@@ -1,0 +1,23 @@
+{
+  "name": "mme-ss2020-task-4-video-assistant-starter",
+  "version": "1.0.0",
+  "description": "A video assistant, not only but for example for football.",
+  "main": "index.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint --format table resources/js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U04-VideoAssistant-Starter.git"
+  },
+  "author": "Alexander Bazo <alexander.bazo@ur.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U04-VideoAssistant-Starter/issues"
+  },
+  "homepage": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U04-VideoAssistant-Starterr#readme",
+  "dependencies": {
+    "eslint": "^7.30.0"
+  }
+}
